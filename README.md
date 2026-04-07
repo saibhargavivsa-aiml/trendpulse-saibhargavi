@@ -1,0 +1,2 @@
+# trendpulse-saibhargavi
+mini project
